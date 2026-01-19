@@ -1,2 +1,3 @@
 red is a color
 green is a colour
+yellow is a colour
