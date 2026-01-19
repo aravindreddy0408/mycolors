@@ -4,3 +4,4 @@ yellow is a colour
 pink is a colour
 blue is also a colour
 violet is a color
+black is a colour
